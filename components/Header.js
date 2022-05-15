@@ -11,8 +11,6 @@ export default function Header({ title }) {
 <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 <meta name="description" content="Folie cu bule ieftina, Folie bule impachetat - Folie cu bule ieftina - Folie bule ambalare - Folie cu bule de aer!" />
 <link rel="canonical" href="https://foliecubule.netlify.app" />
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="Description" lang="en" content="open source html and css template">
 <meta name="author" content="mlp design">
 <meta name="robots" content="index, follow">
 <link rel="stylesheet" href="styles.css">
