@@ -12,7 +12,7 @@ export default function Header({ title }) {
 <meta name="description" content="Folie cu bule ieftina, Folie bule impachetat - Folie cu bule ieftina - Folie bule ambalare - Folie cu bule de aer!" />
 <link rel="canonical" href="https://foliecubule.netlify.app" />
 <meta name="robots" content="index, follow">
-<link rel="stylesheet" href="/_next/static/css/styles.css">
+<link rel="stylesheet" href="/styles/styles.css">
 <link rel="stylesheet" href="/_next/static/css/slidy.css">
 </head>
 <body>
