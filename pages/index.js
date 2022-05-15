@@ -9,7 +9,16 @@ a:hover {color: #000; text-decoration:underline; }
 
 .right {text-align:right; }
 .hide {display: none;}smiley,
+#container {
+    width:100%;
+    margin-top:48px;
+}
 
+#pageheader {
+    display:table;
+    width:80%;
+    margin:auto;
+}
 </style>
 <div id="container">
 <div id="pageheader">
