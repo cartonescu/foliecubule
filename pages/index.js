@@ -2,6 +2,35 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
+
+<div id="menu">
+<nav>
+<input type="checkbox" id="show-menu" role="button">
+<label for="show-menu" class="open"><span class="fa fa-bars"></span></label>
+<label for="show-menu" class="close"><span class="fa fa-times"></span></label>
+<ul id="topnav">  
+<li><a href="#">Custom</a></li>
+<li><a href="#">Premium</a></li>
+<li><a href="#">Gratis</a></li>
+<li><a href="#">Random</a></li>
+<li><a href="#">Search</a></li>
+<li>
+	<ul>
+	<li><a href="#"><i class="fa fa-facebook"></i></a></li>
+	<li><a href="#"><i class="fa fa-instagram"></i></a></li>
+	<li><a href="#"><i class="fa fa-twitter"></i></a></li>
+	</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div id="container">
+<div id="pageheader">
+<h1>Random by mlpdesign.net</h1>
+<p>Fluid. Responsive. HTML5.</p>
+</div>
+
+
 export default function Home() {
   return (
     <div className="container">
