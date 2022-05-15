@@ -11,6 +11,12 @@ a:hover {color: #000; text-decoration:underline; }
 .hide {display: none;}smiley,
 
 </style>
+<div id="container">
+<div id="pageheader">
+<h1>Random by mlpdesign.net</h1>
+<p>Fluid. Responsive. HTML5.</p>
+</div></div>
+
 
 export default function Home() {
   return (
