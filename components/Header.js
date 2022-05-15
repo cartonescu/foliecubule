@@ -1,3 +1,4 @@
+import styles from './style.css'
 <!DOCTYPE html>
 <html lang="ro">
 <head>
