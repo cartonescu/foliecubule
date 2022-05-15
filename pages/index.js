@@ -2,31 +2,6 @@ import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
 
-<style type="text/css">
-img.wp-body { background-color:#fefdfb; color: #555; font-family: 'Abel', sans-serif; font-size: 93%; font-weight:normal;margin: 0; }
-a:link, a:visited, a:active{ color:inherit; text-decoration: none; }
-a:hover {color: #000; text-decoration:underline; }
-
-.right {text-align:right; }
-.hide {display: none;}smiley,
-#container {
-    width:100%;
-    margin-top:48px;
-}
-
-#pageheader {
-    display:table;
-    width:80%;
-    margin:auto;
-}
-</style>
-<div id="container">
-<div id="pageheader">
-<h1>Random by mlpdesign.net</h1>
-<p>Fluid. Responsive. HTML5.</p>
-</div></div>
-
-
 export default function Home() {
   return (
     <div className="container">
