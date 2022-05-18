@@ -7,3 +7,4 @@ export default function Header({ title }) {
 <meta name="description" content="Folie cu bule ieftina, Folie bule impachetat - Folie cu bule ieftina - Folie bule ambalare - Folie cu bule de aer!" />
 <link rel="canonical" href="https://foliecubule.netlify.app" />
 <meta name="robots" content="index, follow">
+  <meta name="google-site-verification" content="31txoapoT1aSa8_d-4DjHoQCJMBcRYB62Bvycrl8pBQ" />
