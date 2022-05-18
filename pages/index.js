@@ -1,7 +1,7 @@
 import Head from 'next/head'
 import Header from '@components/Header'
 import Footer from '@components/Footer'
- <meta name="google-site-verification" content="31txoapoT1aSa8_d-4DjHoQCJMBcRYB62Bvycrl8pBQ" />
+ 
 
 export default function Home() {
   return (
